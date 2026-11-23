@@ -3,6 +3,8 @@
 *.mov
 *.m4a
 *.mp3
+*.aiff
+*.wav
 
 # Python 缓存
 __pycache__/
