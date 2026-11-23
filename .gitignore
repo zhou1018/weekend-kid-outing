@@ -1,0 +1,25 @@
+# 渲染产物（体积大，clone 后可自行复现）
+*.mp4
+*.mov
+*.m4a
+*.mp3
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+
+# 审片/回滚临时目录
+_rollback/
+审片/
+qa/
+
+# 本地工具与配置
+.workbuddy/
+.DS_Store
+
+# 录屏帧预览（中间产物）
+rec-frames/
+静帧/
+静帧总览.png
